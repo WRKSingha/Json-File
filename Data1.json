@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Chocolate",
+        "Price": 300
+    },
+    {
+        "name": "Flowers",
+        "Price": 250
+    },
+    {
+        "name": "Bags",
+        "Price": 350
+    },
+    {
+        "name": "Chocolate",
+        "Price": 860
+    },
+    {
+        "name": "Cake",
+        "Price": 350
+    },
+    {
+        "name": "Shoes",
+        "Price": 200
+    },
+    {
+        "name": "Bags",
+        "Price": 350
+    },
+    {
+        "name": "Biscuits",
+        "Price": 450
+    }
+]
